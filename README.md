@@ -1,3 +1,8 @@
+## Shakur 
+
+I am a [Geospatial Data scientist](https://shakurondata.com/) interested all Geo.
+Check out my page at [linkedIN](https://www.linkedin.com/feed/) 
+
 ### Hi there 👋
 
 <!--
