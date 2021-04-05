@@ -3,6 +3,12 @@
 I am a [Geospatial Data scientist](https://shakurondata.com/) interested all Geo.
 Check out my page at [linkedIN](https://www.linkedin.com/feed/) 
 
+
+### Education
+- _Masters_ in **Geoinformation**
+- _Masters_ in **Urban Planning**
+
+![](https://secureservercdn.net/160.153.137.99/7pw.108.myftpupload.com/wp-content/uploads/2021/03/1-1.png)
 ### Hi there 👋
 
 <!--
